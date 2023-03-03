@@ -1,3 +1,6 @@
+// for static methods no need to initialize the objects but for non static it is necessary
+
+
 package javademosproject;
 
 public class demo3 {
@@ -18,6 +21,6 @@ public class demo3 {
 	}
 
 	void method3() {
-		System.out.println("From static method 3");
+		System.out.println("From Non static method 3");
 	}
 }
