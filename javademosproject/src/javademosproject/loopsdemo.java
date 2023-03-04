@@ -4,7 +4,7 @@ public class loopsdemo {
 	
 	public static void main(String[] args) {
 		
-		// loops are used for repeatative tasks
+		// loops are used for repetitive tasks
 		
 		System.out.println("Hello World");
 		System.out.println("Hello World");
